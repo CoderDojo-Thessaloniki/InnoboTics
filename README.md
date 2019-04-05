@@ -18,6 +18,12 @@
 |`GPS Module`            |1              |
 |`Gyroscope`|1  |
 |`Buzzer`|1  |
+| RaspberryPi Hardware | | 
+|`RaspberryPi 3 Model B+ | 1 |
+|`RaspberryPi 1 |1   |
+|`GPS MODULE FOR RaspberryPi | 1 |
+|`POWER PACK x1 | 1 |
+|`BUTTONS x6 | 6 |
 
 *...λίστα προς εμπλουτισμό*
 
