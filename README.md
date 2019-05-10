@@ -35,9 +35,10 @@
 ## Αναφορές σε χρήσιμα εργαλεία
 
  - [Wigle](https://wigle.net)
- - [Draw.io] (https://draw.io)
+ - [Draw.io](https://draw.io)
 
 
 ## Διάγραμμα λειτουργίας Ιδέας
-![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram 1.jpg)
+![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram_1.jpg)
+![Diagram2](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram_2.jpg)
 
