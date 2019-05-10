@@ -39,4 +39,5 @@
 
 
 ## Διάγραμμα λειτουργίας Ιδέας
-*...soon! PS: GitHub please support mermaid :) *
+![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram1.jpg)
+
