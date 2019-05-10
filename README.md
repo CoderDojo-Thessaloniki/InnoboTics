@@ -1,7 +1,7 @@
 # InnoboTics
 
 > Repository for the InnoboTics Team of the CoderDojo Thessaloniki Ninja's
-## Τίτλος έργου: HEAR2SEE [Innobotics]
+## Τίτλος έργου: HEAR2SEE [InnoboTics]
 ## Κατάσταση: Έτοιμο
 
 ## Περιγραφή Έργου
@@ -39,6 +39,6 @@
 
 
 ## Διάγραμμα λειτουργίας Ιδέας
-![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram_1.jpg)
-![Diagram2](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram_2.jpg)
+![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram_1.JPG)
+![Diagram2](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram_2.JPG)
 
