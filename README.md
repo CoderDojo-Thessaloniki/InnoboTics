@@ -36,10 +36,13 @@
 
  - [Wigle](https://wigle.net)
  - [Draw.io](https://draw.io)
+ 
+## Σενάριο
+![Diagram2](../Diagrams/Diagram_2.JPG) 
 
 ## Διάγραμμα λειτουργίας 
 ![Diagram1](../Diagrams/Diagram_1.JPG)
-![Diagram2](../Diagrams/Diagram_2.JPG)
+
 
 
 
