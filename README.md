@@ -38,6 +38,7 @@
  - [Draw.io](https://draw.io)
 
 ## Διάγραμμα λειτουργίας Ιδέας
-![Diagram1](../master/Diagrams/Diagram_1.JPG)
-![Diagram2](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram_2.JPG)
+![Diagram1](../Diagrams/Diagram_1.JPG)
+![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/Diagrams/Diagram_1.JPG)
+
 
