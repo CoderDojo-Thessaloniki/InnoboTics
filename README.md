@@ -39,5 +39,5 @@
 
 
 ## Διάγραμμα λειτουργίας Ιδέας
-![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram1.jpg)
+![Diagram1](https://raw.githubusercontent.com/CoderDojo-Thessaloniki/InnoboTics/branch/Diagrams/Diagram 1.jpg)
 
