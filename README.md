@@ -3,7 +3,7 @@
 > Repository for the InnoboTics Team of the CoderDojo Thessaloniki Ninja's
 ## Τίτλος έργου: HEAR2SEE [InnoboTics]
 ## Κατάσταση: Έτοιμο
-![HEAR2SEE_Logo](../Images/HEAR2C_Logo_sm.JPG)
+![HEAR2SEE_Logo](../Images/HEAR2C_Logo_sm.jpg)
 ## Περιγραφή Έργου
 
 Δημιουργήσαμε ένα σύστημα με τίτλο **HEAR2SEE**, το οποίο στόχο έχει να διευκολύνει τυφλούς ή/και άτομα με προβλήματα όρασης. Το σύστημα μας **αποτελείται από 2 συσκευές**, για την κατασκευή των οποίων χρησιμοποιήσαμε RaspberryPi hardware. 
